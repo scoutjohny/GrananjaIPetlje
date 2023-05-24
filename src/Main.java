@@ -1,0 +1,15 @@
+public class Main {
+    public static void main(String[] args) {
+        String [][] x ={
+                {"računar","tablet","mobilni telefon"},
+                {"vanila","so","biber","cimet"},
+                {"kvaka"}
+        };
+        for(int i=0;i<x.length;i++){
+            System.out.println("  Pojmovi:  ");
+            for(int j=0;j< x[i].length;j++){
+                System.out.println(x[i][j]+"\t");
+            }
+        }
+    }
+}
