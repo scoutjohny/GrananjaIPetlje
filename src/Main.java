@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         String [][] x ={
                 {"računar","tablet","mobilni telefon"},
-                {"vanila","so","biber","cimet"},
+                {"vanila","biber","cimet"},
                 {"kvaka", "stolnjak","radkapna","milje"}
         };
         for(int i=0;i<x.length;i++){
