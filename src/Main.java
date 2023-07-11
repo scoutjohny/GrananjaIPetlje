@@ -3,7 +3,7 @@ public class Main {
         String [][] x ={
                 {"računar","tablet","mobilni telefon"},
                 {"vanila","biber","cimet"},
-                {"kvaka", "stolnjak","radkapna","milje"}
+                {"kvaka", "stolnjak","radkapna","milje", "tocak"}
         };
         for(int i=0;i<x.length;i++){
             System.out.println("  Pojmovi:  ");
