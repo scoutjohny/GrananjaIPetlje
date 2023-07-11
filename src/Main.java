@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         String [][] x ={
                 {"računar","tablet","mobilni telefon"},
+<<<<<<< HEAD
                 {"biber","cimet"},
                 {"kvaka", "stolnjak","radkapna","milje", "tocak", "pegla", "korpa"}
         };
